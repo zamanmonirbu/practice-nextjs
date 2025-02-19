@@ -1,9 +1,10 @@
-import React from 'react';
+import AdminFooter from "../components/admin-footer/page";
 
-const AdminLayout = () => {
+const AdminLayout = ({children}) => {
     return (
         <div>
-            
+            <AdminFooter/>
+            {children}
         </div>
     );
 };

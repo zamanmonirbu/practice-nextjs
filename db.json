@@ -1,0 +1,125 @@
+{
+    "shoes": [
+      {
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "size": 42,
+        "color": "Black",
+        "price": 120,
+        "material": "Leather",
+        "category": "Sneakers",
+        "gender": "Men",
+        "stock": 50,
+        "rating": 4.8
+      },
+      {
+        "brand": "Adidas",
+        "model": "Ultraboost 22",
+        "size": 41,
+        "color": "White",
+        "price": 150,
+        "material": "Mesh",
+        "category": "Running Shoes",
+        "gender": "Unisex",
+        "stock": 30,
+        "rating": 4.7
+      },
+      {
+        "brand": "Puma",
+        "model": "RS-X",
+        "size": 43,
+        "color": "Blue",
+        "price": 110,
+        "material": "Synthetic",
+        "category": "Casual",
+        "gender": "Men",
+        "stock": 40,
+        "rating": 4.5
+      },
+      {
+        "brand": "Reebok",
+        "model": "Nano X3",
+        "size": 40,
+        "color": "Red",
+        "price": 130,
+        "material": "Textile",
+        "category": "Training Shoes",
+        "gender": "Women",
+        "stock": 20,
+        "rating": 4.6
+      },
+      {
+        "brand": "New Balance",
+        "model": "990v5",
+        "size": 44,
+        "color": "Gray",
+        "price": 175,
+        "material": "Suede",
+        "category": "Walking Shoes",
+        "gender": "Men",
+        "stock": 25,
+        "rating": 4.9
+      },
+      {
+        "brand": "Asics",
+        "model": "Gel-Kayano 29",
+        "size": 42,
+        "color": "Green",
+        "price": 140,
+        "material": "Mesh",
+        "category": "Running Shoes",
+        "gender": "Unisex",
+        "stock": 35,
+        "rating": 4.7
+      },
+      {
+        "brand": "Vans",
+        "model": "Old Skool",
+        "size": 39,
+        "color": "Black/White",
+        "price": 80,
+        "material": "Canvas",
+        "category": "Skate Shoes",
+        "gender": "Unisex",
+        "stock": 60,
+        "rating": 4.6
+      },
+      {
+        "brand": "Converse",
+        "model": "Chuck Taylor All Star",
+        "size": 38,
+        "color": "White",
+        "price": 65,
+        "material": "Canvas",
+        "category": "Casual",
+        "gender": "Unisex",
+        "stock": 70,
+        "rating": 4.7
+      },
+      {
+        "brand": "Timberland",
+        "model": "Premium 6-Inch Boot",
+        "size": 45,
+        "color": "Yellow",
+        "price": 200,
+        "material": "Leather",
+        "category": "Boots",
+        "gender": "Men",
+        "stock": 15,
+        "rating": 4.8
+      },
+      {
+        "brand": "Skechers",
+        "model": "Go Walk 6",
+        "size": 41,
+        "color": "Gray",
+        "price": 90,
+        "material": "Knit",
+        "category": "Walking Shoes",
+        "gender": "Women",
+        "stock": 45,
+        "rating": 4.5
+      }
+    ]
+  }
+  

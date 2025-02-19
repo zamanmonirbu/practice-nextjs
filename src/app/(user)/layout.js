@@ -1,9 +1,11 @@
 import React from 'react';
+import FooterPage from '../components/footer/page';
 
-const UserLayout = () => {
+const UserLayout = ({chilren}) => {
     return (
         <div>
-            
+            <FooterPage/>
+            {chilren}
         </div>
     );
 };
